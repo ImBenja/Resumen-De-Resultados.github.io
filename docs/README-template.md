@@ -32,11 +32,11 @@ Los usuarios deben poder:
 
 #### Vista de escritorio
 
-![](./design/results/Desktop-Result.png)
+<img src="https://github.com/ImBenja/Resumen-De-Resultados.github.io/blob/main/design/results/Desktop-Result.png?raw=true" />
 
 #### Vista móvil
 
-![](./design/results/Mobile-Result.png)
+<img src="https://github.com/ImBenja/Resumen-De-Resultados.github.io/blob/main/design/results/Mobile-Result.png?raw=true" />
 
 **Descripción**: Esta son las captura de pantalla de mi solución al desafío **Results Summary Component**. Muestra la vista de escritorio del componente, con un diseño limpio. Muestra la vista de mobile del componente, con un diseño responsive en todos los dispositivos.
 
